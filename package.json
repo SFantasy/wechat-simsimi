@@ -1,0 +1,20 @@
+{
+    "name": "wechat-simsimi",
+    "version": "0.0.1",
+    "main": "app.js",
+    "dependencies": {
+        "connect": "~2.9.1",
+        "wechat": "~0.5.0"
+    },
+    "engines": {
+        "node": ">=0.6.0",
+        "npm": ">=1.1.6"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "description": "wechat simsimi",
+    "repository": "https://github.com/SFantasy/wechat-simsimi",
+    "author": "me@fantasyshao.com",
+    "license": "MIT"
+}
