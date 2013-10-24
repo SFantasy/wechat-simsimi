@@ -5,6 +5,10 @@ Build for fun.
 
 [Simsimi](http://www.simsimi.com/) is a chatting robot which is quite popular in all platforms(Android, iOS and so on).
 
+qrcode for this wechat simsimi account:
+
+![qrcode](https://dl-web.dropbox.com/get/Private/qrcode_for_gh_788dd46929ac_258.jpg?w=AAD4I9dPIHa8JNhWXz5XzR0klkVJut6zuUFAH1K1mD3C2g "qrcode")
+
 ## Dependencies
 
 ### Node.js
